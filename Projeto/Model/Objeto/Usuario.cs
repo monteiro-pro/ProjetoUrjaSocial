@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Projeto
+namespace Projeto.Model.Objeto
 {
-    public class Class1
+    class Usuario
     {
-        // Teste Primeiro Commit.
+        public string nome { get; set; }
     }
 }
