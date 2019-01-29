@@ -1,11 +1,11 @@
-﻿@model ProjetoWEB.Models.Entidade.Pessoa
+﻿@model ProjetoWEB.Models.ViewModels.HomeViewModels
 @{
     ViewBag.Title = "Cadastro";
 }
 
 <h2>Cadastro</h2>
 
-@using (Html.BeginForm("Cadastro", "Manage", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+@using (Html.BeginForm("Cadastro", "Home", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
 {
     @Html.AntiForgeryToken()
     <hr />
