@@ -27,15 +27,15 @@ namespace ProjetoWEB.Controllers.Fachada
             Cliente.Remove(cliente);
         }
 
-        public void UpdateCliente(Cliente cliente)
-        {
-            Cliente.Update(cliente);
-        }
+        //public void UpdateCliente(Cliente cliente)
+        //{
+        //    Cliente.Update(cliente);
+        //}
 
-        public Cliente SelectCliente(int id)
-        {
-            return Cliente.Select(id);
-        }
+        //public Cliente SelectCliente(int id)
+        //{
+        //    return Cliente.Select(id);
+        //}
 
         public IList<Cliente> ListCliente()
         {

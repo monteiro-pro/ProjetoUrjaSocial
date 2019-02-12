@@ -1,4 +1,5 @@
-﻿using ProjetoWEB.Models.Entidade;
+﻿using ProjetoWEB.Models.Dados.Context;
+using ProjetoWEB.Models.Entidade;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,32 +15,33 @@ namespace ProjetoWEB.Controllers.Regra
 
             Validar(entidade);
 
-            new ClienteRepositorio().Insert(entidade);
+            ClienteContext context = new ClienteContext();
+            context.Cliente.Add(entidade);
+            context.SaveChanges();
         }
 
-        public void Update(Cliente entidade)
-        {
-            Validar(entidade);
+        //public void Update(Cliente entidade)
+        //{
+        //    Validar(entidade);
 
-            new ClienteRepositorio().Update(entidade);
-        }
+        //    new ClienteContext().Cliente.up(entidade);
+        //}
 
         public void Remove(Cliente entidade)
         {
             Validar(entidade);
 
-            new ClienteRepositorio().Remove(entidade);
+            new ClienteContext().Cliente.Remove(entidade);
         }
 
-        public Cliente Select(int id)
-        {
-            return new ClienteRepositorio().Select(id);
-        }
-
+        //public Cliente Select(int id)
+        //{
+        //    return new ClienteRepositorio().Select(id);
+        //}
 
         public IList<Cliente> List()
         {
-            return new ClienteRepositorio().List();
+            return new ClienteContext().Cliente.ToList();
         }
 
         public void Validar(Cliente entidade)

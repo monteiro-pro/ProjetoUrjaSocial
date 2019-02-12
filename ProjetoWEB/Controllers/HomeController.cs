@@ -1,11 +1,11 @@
 ﻿using ProjetoWEB.Controllers.Fachada;
 using ProjetoWEB.Models.Entidade;
+using ProjetoWEB.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using static ProjetoWEB.Models.ViewModels.HomeViewModels;
 
 namespace Teste.Controllers
 {
@@ -28,10 +28,10 @@ namespace Teste.Controllers
                 Fachada fachada = new Fachada();
                 Cliente entidade = new Cliente();
 
-                entidade.Nome_Cliente = model.Nome_Cliente;
-                entidade.CPF_Cliente = model.CPF_Cliente;
-                entidade.Idade_Cliente = model.Idade_Cliente;
-                entidade.Endereco_Cliente = model.Endereco_Cliente;
+                entidade.Nome_Cliente = model.Nome;
+                entidade.CPF_Cliente = model.CPF;
+                entidade.Idade_Cliente = model.Idade;
+                entidade.Endereco_Cliente = model.Endereco;
 
                 fachada.InsertCliente(entidade);
 

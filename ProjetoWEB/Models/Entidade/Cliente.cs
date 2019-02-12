@@ -8,6 +8,8 @@ namespace ProjetoWEB.Models.Entidade
 {
     public class Cliente
     {
+        public int ID { get; set; }
+
         public string Nome_Cliente { get; set; }
 
         public string CPF_Cliente { get; set; }

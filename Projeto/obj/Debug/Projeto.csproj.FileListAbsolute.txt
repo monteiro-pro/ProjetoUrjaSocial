@@ -1,5 +1,4 @@
-D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\Projeto\bin\Debug\Projeto.pdb
-D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
-D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\Projeto\obj\Debug\Projeto.pdb
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\Projeto\bin\Debug\Projeto.exe
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\Projeto\bin\Debug\Projeto.pdb
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\Projeto\obj\Debug\Projeto.exe
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\Projeto\obj\Debug\Projeto.pdb

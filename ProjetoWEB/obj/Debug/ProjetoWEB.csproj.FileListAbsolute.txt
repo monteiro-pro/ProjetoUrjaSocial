@@ -14,6 +14,8 @@ D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\ProjetoWEB.dll.config
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\ProjetoWEB.dll
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\ProjetoWEB.pdb
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\EntityFramework.dll
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\EntityFramework.SqlServer.dll
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\Microsoft.AI.Agent.Intercept.dll
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\Microsoft.AI.DependencyCollector.dll
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -29,6 +31,8 @@ D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\System.Web.Webpages.Deployment.dll
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\System.Web.Webpages.dll
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\System.Web.Webpages.Razor.dll
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\EntityFramework.xml
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\EntityFramework.SqlServer.xml
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\Microsoft.AI.DependencyCollector.xml
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\Microsoft.AI.Web.xml
@@ -41,6 +45,6 @@ D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\System.Web.Webpages.Razor.xml
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\System.Web.Helpers.xml
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\bin\System.Web.Mvc.xml
+D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\obj\Debug\ProjetoWEB.csprojResolveAssemblyReference.cache
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\obj\Debug\ProjetoWEB.dll
 D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\obj\Debug\ProjetoWEB.pdb
-D:\Documentos\Material de Estudo\Analise e Desenvolvimento de Sistemas\Linguagem C#\ProjetoUrjaSocial\ProjetoWEB\obj\Debug\ProjetoWEB.csprojResolveAssemblyReference.cache
